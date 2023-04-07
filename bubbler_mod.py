@@ -21,11 +21,12 @@ from pathlib import Path
 
 GEDIT_BLACKLIST = [
     'w1r03_disable_slotstar01.gedit',
-    'w1r03_disable_slotstar02.gedit'
-    'w1r04_disable_slotstar01.gedit'
-    'w1r05_disable_slotstar01.gedit'
-    'w2r01_disable_slotstar01.gedit'
-    'w3r01_disable_slotstar01.gedit'
+    'w1r03_disable_slotstar02.gedit',
+    'w1r04_disable_slotstar01.gedit',
+    'w1r05_disable_slotstar01.gedit',
+    'w2r01_disable_slotstar01.gedit',
+    'w3r01_disable_slotstar01.gedit',
+    'w3r01_disable_drawbridge.gedit'
 ]
 
 def read(offset, size):
